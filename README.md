@@ -1,2 +1,2 @@
-# css
-frontend tasarım
+# java/oop
+nesne yönelimli programlamaya ilişikin örnek 
